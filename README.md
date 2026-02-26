@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Chetan Ramrakhya!<br>B.Tech CSE student passionate about Web Development, UI/UX, and learning Python & Machine Learning. I enjoy building clean, user-focused projects and continuously improving my skills.
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-r25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramrakhyachetan04@gmail.com) 
